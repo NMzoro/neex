@@ -1,0 +1,15 @@
+Indicateur,Valeur
+"Modèle sélectionné (CV 5 folds, F1 moyen)",Random Forest
+F1 CV (moy. ± écart-type),0.7870 ± 0.0491
+Rééquilibrage SVMSMOTE (dans le Pipeline),True
+Taille du test,2000
+Accuracy,0.9880
+Precision,0.8235
+Recall,0.8235
+F1-score,0.8235
+ROC-AUC,0.9741
+Average Precision,0.8653
+Vrais positifs (TP),56
+Faux négatifs (FN),12
+Faux positifs (FP),12
+Vrais négatifs (TN),1920

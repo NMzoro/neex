@@ -1,0 +1,3 @@
+Classe,Avant SVMSMOTE,Après SVMSMOTE,Avant (%),Après (%)
+Normal (0),7729,7729,96.61,50.0
+Défaillance (1),271,7729,3.39,50.0

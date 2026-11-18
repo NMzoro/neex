@@ -1,0 +1,6 @@
+Indicateur,Valeur
+Pannes détectées (TP),56.0
+Pannes manquées (FN),12.0
+Fausses alertes (FP),12.0
+Normaux correctement identifiés (TN),1920.0
+Prévalence des pannes (%),3.4
